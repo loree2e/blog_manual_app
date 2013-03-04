@@ -1,12 +1,12 @@
 bloc First Assignment
 =====================
 
-Attempting Markdown language
+Trying out Markdown language
 ----------------------------------
 
-I'm not really sure if this is what I'm supposed to be doing, but here we go. 
+I had started learning html, so it's a little weird to take a step back and use Markdown, but it's all good! 
 
-Time to try some of the syntax:
+Here's some practice with the syntax:
 
 1. An ordered list of top places I enjoy visiting on the weekend:
     1. Carmel
@@ -26,5 +26,10 @@ Some of my favorite encaustic artists are [Daniella Woolf] [1],
   [1]: http://daniellawoolf.com/       "Daniella Woolf"
   [2]: http://www.wendyaikin.com/links "Wendy Aiken"
   [3]: http://judyastabile.com/home.html/    "Judy Stabile"
+  
+Encaustic painting uses a medium of heated beeswax and resin, to which colored pigments are added. 
 
+One of my favorite paintings that I've made:
+
+![Monolith](http://encaustech.files.wordpress.com/2012/11/img_4886.jpg "Monolith")
 
