@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+		<meta charset = "utf-8">
+		<title>Encaustech - Encaustic paintings with a technology influence. Art meets math &amp; science.</title>
+	</head>
+
+	<body>
+		<a href="index.html">Home</a>
+		<a href="about.html">About</a>
+		<a href="gallery.html">Gallery</a>
+		<a href="blog.html">Blog</a>
+		<a href="resources.html">Resources</a>
+
+		<h1>Welcome to Encaustech!</h1>
+		<h2>Encaustic paintings with a technology influence. Art influenced by math and science.</h2>
+
+	</body>
+</html>
