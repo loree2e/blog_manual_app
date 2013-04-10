@@ -67,9 +67,9 @@
         
         #content { 
         width:750px;
-        min-height:450px; /* for modern browsers */
-        height:auto !important; /* for modern browsers */
-        height:450px; /* for IE5.x and IE6 */background-color:#333333;
+        min-height:450px; 
+        height:auto;
+        height:450px; background-color:#333333;
         margin-top:10px;
         }
         
