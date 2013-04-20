@@ -43,7 +43,7 @@ end
 get '/return_blog_post' do
   	text = params[:answer]
   	count = text.length
-  	text + count.to_s + Time.now.to_s
+  	text + " " + count.to_s + " " + Time.now.to_s
   	#count = text.length
 end
 
