@@ -1,0 +1,11 @@
+<h1>Comments</h1>
+<% @exercises.each do |exercise| %>
+  <p>  
+    <span><a href="/<%= exercise.id %>"><%= exercise.name %></a></span>  
+  </p>
+<% end %>
+<h1>Enter your comment</h1>
+<form action ="/" method="post">
+  <p>Name:<input type="text" name="Comments"></p>
+  <input type="submit">
+</form>
