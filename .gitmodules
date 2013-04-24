@@ -1,0 +1,3 @@
+[submodule "number_to_words"]
+	path = number_to_words
+	url = git@github.com:loree2e/number_to_words.git
