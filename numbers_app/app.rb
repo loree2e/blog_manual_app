@@ -4,7 +4,7 @@ require_relative 'num_to_words'
 require 'pry'
 
 
-DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/app.db")
+DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/num_to_words.db")
 
 class Exercise
   include DataMapper::Resource
@@ -27,7 +27,7 @@ end
 
 post '/' do
   exercise = Exercise.new
-  exercise.num        = params[:comments]
+  exercise.num        = params[:number]
   exercise.save
   redirect '/'  
 end
